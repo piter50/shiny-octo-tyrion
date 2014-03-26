@@ -1,4 +1,4 @@
 shiny-octo-tyrion
 =================
 
-A test repo
+A test repo of a possible test project
